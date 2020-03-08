@@ -1,0 +1,6 @@
+int counter = 4
+ 
+  for (int b = 5; b > 1; b --)
+  {
+	Write($"{counter}");
+  }
